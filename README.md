@@ -9,7 +9,7 @@
 
 点击中间的按钮，在弹出的界面中输入title和synopsis并点击右上角的Create按钮即可创建Notebook
 
-![Screenshot_2023-04-16-22-42-45-02_e39d2c7de19156b0683cd93e8735f348](https://user-images.githubusercontent.com/98510207/232320749-9240fc95-3300-4d97-9ec1-dcc5885e0e8c.jpg)
+![Screenshot_2023-04-16-23-00-37-94_2c3aa89e6bca35ab0de9fe3d2b41af08](https://user-images.githubusercontent.com/98510207/232321729-8e7b227c-e480-407f-bfe2-43b2e13a2799.jpg)
 
 点击左上角的Menu按钮，会弹出一个Navigation Drawer，在这你可以看到刚刚新建的Notebook；你也可以点击该Drawer右上角的Add按钮来添加Notebook
 
